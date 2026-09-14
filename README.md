@@ -45,15 +45,11 @@ A **Computer Science Graduate** from **The University of Haripur** specializing 
 - **💼 Smart IT Help Desk (NRTC):** Enterprise-grade incident management system built with React, Node.js, Express, and MySQL featuring heuristic AI auto-triage and automated workload-balanced dispatching.
 
 ---
-
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bibisarwataliaziz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Bibi Sarwat's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Bibisarwataliaziz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
 ### 📬 Connect with Me
 
 <p align="left">
