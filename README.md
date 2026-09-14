@@ -50,7 +50,7 @@ A **Computer Science Graduate** from **The University of Haripur** specializing 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Bibisarwataliaziz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-### 📬 Connect with Me
+ 📬 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bibisarwataliaziz/" target="_blank">
